@@ -1,5 +1,8 @@
 {
-  "name": "test",
+  "name": "Yandex Practicum Sprint 1",
+  "engines": {
+    "node": "16.17.0"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
